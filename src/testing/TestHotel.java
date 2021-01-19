@@ -1,7 +1,5 @@
 package testing;
 
-/* Uncomment the below code to test your application
-
 import model.Hotel;
 import java.time.LocalDate;
 import static org.junit.Assert.*;
@@ -62,4 +60,4 @@ public class TestHotel {
 	}
 
 }
-*/
+

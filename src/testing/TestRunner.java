@@ -1,7 +1,5 @@
 package testing;
 
-/* Uncomment the below code to test your application
-
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
@@ -17,4 +15,4 @@ public class TestRunner {
 		System.out.println(result.wasSuccessful());
 	}
 }
-*/
+
